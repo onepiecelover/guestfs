@@ -1,4 +1,3 @@
-module libguestfs.org/guestfs
+module onepiecelover/guestfs
 
-// First version of golang with working module support.
-go 1.13
+go 1.17
